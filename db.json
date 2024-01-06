@@ -1,0 +1,133 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Sample Product",
+      "price": 19.99,
+      "description": "This is a sample product description."
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "price": 1500,
+      "description": "sqdqsdsqdqsdsqd"
+    },
+    {
+      "id": 3,
+      "name": "test2",
+      "price": 1400,
+      "description": "gggggggggg"
+    },
+    {
+      "name": "dfghjklm",
+      "price": "44444",
+      "description": "sdfghjklmcvbn,;",
+      "id": 4
+    },
+    {
+      "name": "hh",
+      "price": "44",
+      "description": "jjjjjjjjjjjjjjjjjjjj",
+      "id": 5
+    },
+    {
+      "price": "150",
+      "name": "aez",
+      "description": "",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "price": "200",
+      "description": "TESTESTESTESTSETSET",
+      "id": 7
+    },
+    {
+      "name": "aze",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "price": "150",
+      "description": "This is the best product ever existed",
+      "id": 9
+    },
+    {
+      "name": "Test",
+      "price": "50",
+      "description": "THIS IS A LONG DESCRIPTION",
+      "id": 10
+    },
+    {
+      "option": "TWO",
+      "name": "With option and password",
+      "price": "40",
+      "description": "THIS IS ANOTHER LLONG DESCRIPTION",
+      "id": 11
+    },
+    {
+      "genre": "Male",
+      "name": "Gender test",
+      "option": "TWO",
+      "price": "50",
+      "description": "THIS SI A NOTEHREZR",
+      "id": 12
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Sample Product",
+      "price": 19.99,
+      "description": "This is a sample product description."
+    },
+    {
+      "id": 3,
+      "name": "test2",
+      "price": 1400,
+      "description": "gggggggggg"
+    },
+    {
+      "name": "dfghjklm",
+      "price": "44444",
+      "description": "sdfghjklmcvbn,;",
+      "id": 4
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "price": 1500,
+      "description": "sqdqsdsqdqsdsqd"
+    },
+    {
+      "name": "test",
+      "price": "150",
+      "description": "This is the best product ever existed",
+      "id": 9
+    }
+  ],
+  "user": [
+    {
+      "name": "moataz",
+      "username": "moooootaz",
+      "password": "123"
+    }
+  ]
+}
